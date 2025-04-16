@@ -130,6 +130,9 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.pro5
+
+pro5/
 env/
 venv/
 ENV/
